@@ -1,5 +1,5 @@
 Hola! 
-Me llamo Daniel Magaña y estudio Ingenieria Civil Informática en la UTFSM.
+Me llamo Daniel Magaña soy ingeniero civil informático
 
 
 <!---
