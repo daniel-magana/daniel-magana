@@ -1,13 +1,1 @@
-Hola! 
-Me llamo Daniel Magaña soy ingeniero civil informático
-
-
-<!---
-- 👋 Hi, I’m @daniel-magana
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-daniel-magana/daniel-magana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ingeniero Civil Informático de la Universidad Técnica Federico Santa María
